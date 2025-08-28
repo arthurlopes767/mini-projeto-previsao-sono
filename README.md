@@ -59,14 +59,18 @@ streamlit run app_sono.py
 ## Autores
  
 Arthur Luiz Lopes Araujo (https://www.linkedin.com/in/arthur-luiz-lopes-araujo-391aa3218/)
+
 Gabriela Nogueira (https://www.linkedin.com/in/gabriela-nogueira-5a04a5351/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 Gustavo Hideki Kato (https://www.linkedin.com/in/gustavo-hideki-kato-287187307/)
 
 Isaque Yikang Chen
 
 Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
+
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
 
 
 
