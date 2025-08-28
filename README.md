@@ -45,23 +45,29 @@ O repositório contém os seguintes arquivos:
 Para executar o projeto na sua máquina, siga os seguintes passos no prompt de comando
 1. Clone o repositório
 
+```bash
 git clone https://github.com/arthurlopes767/mini-projeto-previsao-sono.git
 cd mini-projeto-previsao-sono
+```
 
 2. Crie e ative um ambiente virtual
 
+```bash
 python -m venv venv
-source venv/bin/activate  
-
-*No Windows, use `venv\Scripts\activate`*
+source venv/bin/activate  #No Windows, use `venv\Scripts\activate`
+    ```
 
 3. Instale as dependências
 
+```bash
 pip install -r requirements.txt
+```
 
 4. Por fim, execute o aplicativo
 
+```bash
 streamlit run app_sono.py
+```
 
 ---
 
@@ -74,3 +80,4 @@ Isaque Yikang Chen
 Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
