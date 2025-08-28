@@ -55,7 +55,7 @@ cd mini-projeto-previsao-sono
 ```bash
 python -m venv venv
 source venv/bin/activate  #No Windows, use `venv\Scripts\activate`
-    ```
+```
 
 3. Instale as dependências
 
@@ -80,4 +80,5 @@ Isaque Yikang Chen
 Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
 
