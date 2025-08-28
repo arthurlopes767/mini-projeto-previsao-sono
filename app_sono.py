@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from joblib import load
 import plotly.express as px
+import os
 
 # Carregando Modelos
 modelo_quality = load('modelo_quality.joblib')
@@ -47,7 +48,8 @@ with abas[0]:
     st.subheader("Análises do Dataset")
 
     try:
-        df = pd.read_csv("Sleep_health_and_lifestyle_dataset.csv")
+        caminho_arquivo = os.path.join(os.path.dirname(__file__), 'Sleep_health_and_lifestyle_dataset.csv')
+        df = pd.read_csv(caminho_arquivo)
 
         # Matriz de correlação
         numerical_df = df.select_dtypes(include=['number'])
@@ -134,3 +136,4 @@ with abas[1]:
     Com ajuda de:
     - [Lucas Fernandez Gallego](https://www.linkedin.com/in/lucas-fernandez-gallego/)  
     """)
+
