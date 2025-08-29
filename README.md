@@ -24,6 +24,7 @@ O repositório contém os seguintes arquivos:
 - modelo_duration.joblib: O modelo de aprendizado de máquina para prever a duração do sono.
 - Sleep_health_and_lifestyle_dataset.csv: O dataset original usado para treinar os modelos.
 - requirements.txt: Lista as bibliotecas Python necessárias para executar o aplicativo.
+- gif-mini-projeto-qualidade-de-sono.gif: Gif com o projeto em ação.
 
 ---
 
@@ -100,6 +101,7 @@ Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
 
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
 
 
 
