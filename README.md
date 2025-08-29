@@ -1,5 +1,6 @@
 # Mini Projeto: Previsão de Qualidade e Duração do Sono
 
+![Mini projeto de qualidade do sono](gif-mini-projeto-qualidade-de-sono.gif)
 
 ## Sobre o projeto:
 Este projeto tem como objetivo estimar a qualidade do sono (no intervalo 0–10) e a duração do sono (em horas) a partir de variáveis simples como idade, nível de estresse, profissão e frequência cardíaca. Foi desenvolvido como exercício prático de machine learning, unindo a modelagem de dados com a criação de uma interface interativa. Os modelos de previsão foram treinados utilizando o Google Cloud.
@@ -99,6 +100,7 @@ Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
 
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
 
 
 
