@@ -1,4 +1,4 @@
-# Mini Projeto: Previsão de Qualidade e Duração do Sono
+# Mini Projeto: Previsão de Tempo e Qualidade de Sono
 
 ![Mini projeto de qualidade do sono](gif-mini-projeto-qualidade-de-sono.gif)
 
@@ -100,6 +100,7 @@ Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
 
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
 
 
 
