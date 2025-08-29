@@ -27,12 +27,31 @@ O repositório contém os seguintes arquivos:
 ---
 
 ## Como executar o projeto localmente
-Para executar o projeto na sua máquina, siga os seguintes passos no prompt de comando
+Para executar o projeto na sua máquina, siga os seguintes passos no seu prompt de comando:
+
+0. Instale o Python (se ainda não tiver)
+```bash
+#No Windows, use
+winget install -e --id Python.Python.3.10
+
+#No Linux, use
+sudo apt update
+sudo apt install python3 python3-venv python3-pip -y
+
+#No macOS, use
+brew install python@3.10
+```
+  
 1. Clone o repositório
 
 ```bash
 git clone https://github.com/arthurlopes767/mini-projeto-previsao-sono.git
 cd mini-projeto-previsao-sono
+```
+
+Se for utilizar em uma máquina sem o Git instalado, faça o download do ZIP do projeto e extraia em uma pasta qualquer. Depois, abra o terminal nessa pasta usando
+```bash
+cd C:\Users\NomeDoUtilizador\Pasta\Nome-da-Pasta-com-o-Projeto
 ```
 
 2. Crie e ative um ambiente virtual
@@ -53,7 +72,12 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Por fim, execute o aplicativo
+5. Verifique se a sua versão do Python é superior ou igual a >= 3.10
+```bash
+python --version
+```
+
+6. Por fim, execute o aplicativo
 
 ```bash
 streamlit run app_sono.py
@@ -75,6 +99,7 @@ Luiz Gabriel Bocalão Costa (https://www.linkedin.com/in/luizgabrielcosta)
 
 
 Com ajuda de: Lucas Fernandez Gallegov (https://www.linkedin.com/in/lucas-fernandez-gallego/)
+
 
 
 
